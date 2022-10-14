@@ -23,4 +23,6 @@
         - [ ] Sprite
         - [ ] Faster
         - [ ] Higher Jump
-  
+## Tower
+  - [ ] Construct Tower (Maybe Grid Based for Demolsionist?)
+    - [ ] Make routes for every character
